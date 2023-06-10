@@ -1,0 +1,10 @@
+console.log(55);
+var age = 20;
+var price = $12;
+var money = 500;
+var time = 4;
+var vanga = 100;
+var person = "mehide";
+var isprogramminglove = true;
+var isyouaffred = true;
+var isyoucanworkhard = true;
